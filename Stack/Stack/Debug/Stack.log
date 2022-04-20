@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+c:\users\home\source\repos\stack\stack\stack.cpp(169): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Stack.vcxproj -> C:\Users\Home\source\repos\Stack\Debug\Stack.exe
